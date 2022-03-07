@@ -17,6 +17,7 @@
                 "customerCity": "Budapesti",
                 "customerStreet": "Példa utca 44"
             },
+              {
              "id": 3,
                 "customerName": "Hajdúböszörményi Kistérségi Ktsz",
                 "customerTaxNumber": "375622431-1-21",
