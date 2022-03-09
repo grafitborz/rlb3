@@ -7,7 +7,7 @@
             "group_tax_number": "375622431-5-05",
             "thirdparty_tax_number": "123456",
             "customer_country": "HU",
-            "customer_zip": "8000",
+            "customer_zip": 8000,
             "customer_city": "Veszprém-Kisszőllős",
             "customer_street": "Példa utca 44"
 
@@ -20,7 +20,7 @@
             "group_tax_number": "375622431-5-05",
             "thirdparty_tax_number": "123456",
             "customer_country": "HU",
-            "customer_zip": "8000",
+            "customer_zip": 8000,
             "customer_city": "Budapesti",
             "customer_street": "Példa utca 44"
         },
@@ -32,7 +32,7 @@
             "group_tax_number": "375622431-5-05",
             "thirdparty_tax_number": "123456",
             "customer_country": "HU",
-            "customer_zip": "8000",
+            "customer_zip": 8000,
             "customer_city": "Hajdúböszörményi",
             "customer_street": "Példa utca 44"
         }
