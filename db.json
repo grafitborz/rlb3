@@ -6,10 +6,15 @@
             "eu_tax_number": "375622431",
             "group_tax_number": "375622431-5-05",
             "thirdparty_tax_number": "123456",
-            "customer_country": "HU",
             "customer_zip": 8000,
             "customer_city": "Veszprém-Kisszőllős",
-            "customer_street": "Példa utca 44"
+            "customer_street": "Példa utca 44",
+           "customer_countrycode":"hu",
+            "customer_country":"Magyarország",
+            "customer_contactname":"Gipsz Jakab",
+            "customer_contactmail":"gibsz.jakab@gmail.com",
+            "customer_contactphone":"06-30-123-4569"
+
 
         },
         {
@@ -19,10 +24,13 @@
             "eu_tax_number": "375622431",
             "group_tax_number": "375622431-5-05",
             "thirdparty_tax_number": "123456",
-            "customer_country": "HU",
             "customer_zip": 8000,
             "customer_city": "Budapesti",
-            "customer_street": "Példa utca 44"
+            "customer_street": "Példa utca 44",
+           "customer_countrycode":"hu",
+           "customer_contactname":"Gipsz Jakab",
+           "customer_contactmail":"gibsz.jakab@gmail.com",
+           "customer_contactphone":"06-30-123-4569"
         },
         {
             "id": 3,
@@ -31,10 +39,13 @@
             "eu_tax_number": "375622431",
             "group_tax_number": "375622431-5-05",
             "thirdparty_tax_number": "123456",
-            "customer_country": "HU",
             "customer_zip": 8000,
             "customer_city": "Hajdúböszörményi",
-            "customer_street": "Példa utca 44"
+            "customer_street": "Példa utca 44",
+           "customer_countrycode":"hu",
+           "customer_contactname":"Gipsz Jakab",
+            "customer_contactmail":"gibsz.jakab@gmail.com",
+            "customer_contactphone":"06-30-123-4569"
         }
     ]
 }
